@@ -1,20 +1,28 @@
-# JavaScript - Origamid
+# Product Preview - FrontEnd Mentor
 
-Aqui neste repositório estão os exercícios feitos nas aulas da [Origamid](https://www.origamid.com).
+Esse projeto faz parte dos desafios do [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-OBS: Existem arquivos HTML e CSS pois está sendo manipulado um site em alguns momentos.
+Foi utilizado HTML e CSS.
+
+[Acesse o site aqui.](https://results-frontendmentor.vercel.app/)
+<br>
+<br>
+[Desafio FrontEnd Mentor.](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+
+## Demonstração
+
+![Wireframe - 1](https://user-images.githubusercontent.com/82620787/233531214-f4da3d1c-fde7-4935-8e07-7f27c2d223aa.png)
+
+## Mais Informações
+
+Foi construído como proposto no design, utilizando:
+
+- HTML
+- CSS
 
 ## Stack
 
-- JavaScript
-
-## Autores
-
-- [Origamid Site](https://www.origamid.com)
-
-- [Origamid Intagram](https://www.instagram.com/origamid.cursos/)
-
-- [Origamid Github](https://github.com/origamid)
+**Front-end:** HTML, CSS
 
 ## License
 
