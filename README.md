@@ -4,14 +4,14 @@ Esse projeto faz parte dos desafios do [FrontEnd Mentor](https://www.frontendmen
 
 Foi utilizado HTML e CSS.
 
-[Acesse o site aqui.](https://results-frontendmentor.vercel.app/)
+[Acesse o site aqui.](https://product-frontendmentor.vercel.app/)
 <br>
 <br>
 [Desafio FrontEnd Mentor.](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 ## Demonstração
 
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/233531214-f4da3d1c-fde7-4935-8e07-7f27c2d223aa.png)
+![Wireframe - 1](https://user-images.githubusercontent.com/82620787/233861732-1d712991-20a3-4330-93b8-cd84ecf0ff1c.png)
 
 ## Mais Informações
 
