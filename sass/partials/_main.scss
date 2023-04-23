@@ -1,0 +1,130 @@
+.product {
+  display: flex;
+
+  width: 100%;
+  max-width: 600px;
+
+  background-color: $white;
+  border-radius: 10px;
+
+  @include responsive(s) {
+    flex-direction: column;
+  }
+
+  @include responsive(xs) {
+    flex-direction: column;
+  }
+
+  .picture {
+    img {
+      background-size: cover;
+      border-radius: 10px 0px 0px 10px;
+
+      @include responsive(s) {
+        border-radius: 10px 10px 0px 0px;
+      }
+
+      @include responsive(xs) {
+        border-radius: 10px 10px 0px 0px;
+      }
+    }
+  }
+
+  .content {
+    max-width: 300px;
+    padding: 32px;
+
+    @include responsive(s) {
+      max-width: 100%;
+    }
+
+    @include responsive(xs) {
+      max-width: 100%;
+      padding: 24px;
+    }
+
+    .subtitle {
+      display: block;
+      @include type-2(1.2rem);
+      color: $blue-light;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      margin-bottom: 20px;
+
+      @include responsive(s) {
+        margin-bottom: 12px;
+      }
+
+      @include responsive(xs) {
+        margin-bottom: 12px;
+      }
+    }
+
+    .title {
+      @include type-1(3.2rem);
+      color: $blue;
+      margin-bottom: 24px;
+
+      @include responsive(s) {
+        margin-bottom: 16px;
+      }
+
+      @include responsive(xs) {
+        margin-bottom: 16px;
+      }
+    }
+
+    .desc {
+      @include type-2(1.4rem);
+      color: $blue-light;
+      line-height: 23px;
+      margin-bottom: 29px;
+
+      @include responsive(s) {
+        margin-bottom: 24px;
+      }
+
+      @include responsive(xs) {
+        margin-bottom: 24px;
+      }
+    }
+
+    .price {
+      display: flex;
+      align-items: center;
+      gap: 19px;
+      margin-bottom: 30px;
+
+      @include responsive(s) {
+        margin-bottom: 20px;
+      }
+
+      @include responsive(xs) {
+        margin-bottom: 20px;
+      }
+
+      p {
+        @include type-1(3.2rem);
+        color: $green;
+      }
+
+      span {
+        display: block;
+        @include type-2(1.3rem);
+        color: $blue-light;
+        text-decoration: line-through;
+      }
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+
+      img {
+        width: 15px;
+      }
+    }
+  }
+}

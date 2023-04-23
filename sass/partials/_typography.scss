@@ -1,0 +1,12 @@
+@mixin type-1($size) {
+  font-family: 'Fraunces';
+  font-size: $size;
+  line-height: $size;
+  font-weight: 700;
+}
+
+@mixin type-2($size) {
+  font-family: 'Montserrat';
+  font-size: $size;
+  font-weight: 500;
+}
