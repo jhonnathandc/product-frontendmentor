@@ -1,21 +1,19 @@
 # Product Preview - FrontEnd Mentor
 
-Esse projeto faz parte dos desafios do [FrontEnd Mentor](https://www.frontendmentor.io/).
+This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-Foi utilizado HTML e CSS.
-
-[Acesse o site aqui.](https://product-frontendmentor.vercel.app/)
+[Access the website here.](https://product-frontendmentor.vercel.app/)
 <br>
 <br>
-[Desafio FrontEnd Mentor.](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+[Access the challenge here.](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-## Demonstração
+## Demonstration
 
 ![Wireframe - 1](https://user-images.githubusercontent.com/82620787/233861732-1d712991-20a3-4330-93b8-cd84ecf0ff1c.png)
 
-## Mais Informações
+## More information
 
-Foi construído como proposto no design, utilizando:
+It was built as proposed in the design, using:
 
 - HTML
 - CSS
@@ -28,9 +26,9 @@ Foi construído como proposto no design, utilizando:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-# Olá, meu nome é Jhonnathan! 👋
+# Hello, my name is Jhonnathan! 👋
 
-<p>Acesse minhas redes!</p>
+<p>Access my networks!</p>
 
 [![github](https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonnathandc)
 [![github](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/jhonnathan-cora-6427661b0/)
