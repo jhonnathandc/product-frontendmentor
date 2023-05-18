@@ -17,6 +17,7 @@ It was built as proposed in the design, using:
 
 - HTML
 - CSS
+- SASS
 
 ## Stack
 
